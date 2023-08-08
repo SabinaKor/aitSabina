@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/lesson03/code" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/lesson04/code04" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/lesson05/code05" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/lesson06/code06" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/lesson07/code07" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/lesson08/code08" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/lesson09/cpde09" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/lesson10/code10" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/lesson11/code11" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/lesson12/code12" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/lesson 12_14/code1214" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/lesson15/code15" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/lesson16/code16" isTestSource="false" />
+      <excludeFolder url="file://$MODULE_DIR$/lesson02" />
+      <excludeFolder url="file://$MODULE_DIR$/lesson03" />
+      <excludeFolder url="file://$MODULE_DIR$/lesson04" />
+      <excludeFolder url="file://$MODULE_DIR$/lesson05" />
+      <excludeFolder url="file://$MODULE_DIR$/lesson06" />
+      <excludeFolder url="file://$MODULE_DIR$/lesson07" />
+      <excludeFolder url="file://$MODULE_DIR$/lesson08" />
+      <excludeFolder url="file://$MODULE_DIR$/lesson09" />
+      <excludeFolder url="file://$MODULE_DIR$/lesson10" />
+      <excludeFolder url="file://$MODULE_DIR$/lesson11" />
+      <excludeFolder url="file://$MODULE_DIR$/lesson12" />
+      <excludeFolder url="file://$MODULE_DIR$/lesson 12_14" />
+      <excludeFolder url="file://$MODULE_DIR$/lesson15" />
+      <excludeFolder url="file://$MODULE_DIR$/lesson16" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>
